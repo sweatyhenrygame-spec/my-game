@@ -1,0 +1,8 @@
+# Godot 4
+.godot/
+*.tmp
+export_presets.cfg.local
+
+# OS
+.DS_Store
+Thumbs.db
